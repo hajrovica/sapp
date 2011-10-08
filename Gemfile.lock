@@ -84,7 +84,6 @@ GEM
       polyglot
       polyglot (>= 0.3.1)
     tzinfo (0.3.29)
-    watchr (0.7)
     webrat (0.7.2)
       nokogiri (>= 1.2.0)
       rack (>= 1.0)
@@ -98,5 +97,4 @@ DEPENDENCIES
   rspec-rails (= 2.4.1)
   spork (~> 0.9.0.rc)
   sqlite3-ruby
-  watchr
   webrat
