@@ -1,5 +1,10 @@
 #ror tutorial
 mostly static pages tutorial lesson 3 
 
+Another initial commit on fork of sapp. Making clean commit before trying to 
+enable autotest on Lion VM.
+
 Autotest replaced wit rspec and watchr as testing environment 
 should try other autotest method mentioned in watch article
+
+
